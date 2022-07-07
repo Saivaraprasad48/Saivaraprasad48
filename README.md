@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Saivaraprasad48
-- 👀 I’m interested in artificial and machine learning and Internet of things
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on full stack developers and programmers
-- 📫 How to reach me sai44prasad88@gmail.com
+- 👋 Hi, I’m SAI VARA PRASAD DEGALA
+- 💞️ I’m looking to collaborate on full stack web developers and software engineers
+- 📫 To reach me sai44prasad88@gmail.com
 
 <!---
 Saivaraprasad48/Saivaraprasad48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
