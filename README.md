@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SAI VARA PRASAD DEGALA
-- 💞️ I’m looking to collaborate on full stack web developers and software engineers
+- 💞️ I’m looking to collaborate with full stack web developers and software engineers
 - 📫 To reach me sai44prasad88@gmail.com
 
 <!---
