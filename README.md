@@ -4,5 +4,5 @@
 
 
 <ul>
-  <li> How to reach out to me - <b><u> sai44prasad88@gmail.com</u></b></li>
+  <li> How to reach out to me - <b><u><li>sai44prasad88@gmail.com</li></u></b></li>
 </ul>
