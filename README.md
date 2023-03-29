@@ -6,5 +6,5 @@
 <ul>
   <li> 📫 How to reach me - <b>sai44prasad88@gmail.com</b></li>
   
-  <li> 📄 Know about my experiences <a href="shorturl.at/gipwP" target="_blank">CV</a> </li>
+  <li> 📄 Know about my experiences <a href="shorturl.at/gipwP"> CV </a> </li>
 </ul>
