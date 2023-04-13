@@ -7,5 +7,5 @@
   
 - 📄 Know about my experiences [View My CV](https://drive.google.com/file/d/14dyFRuo7WURXJ_vLRTiXuou5N0kBZsxa/view?usp=share_link)
 
-- 👨‍💻 Check my portofolio [here](https://dsp-portfolio.netlify.app/)
+- 👨‍💻 Check my portofoli [here](https://dsp-portfolio.netlify.app/)
 
