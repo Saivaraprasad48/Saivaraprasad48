@@ -10,5 +10,8 @@
 
 - 👨‍💻 Check my portofolio [here](https://dsp-portfolio.netlify.app/)
 
-     [![GitHub Streak](https://streak-stats.demolab.com/?user=Saivaraprasad48)](https://git.io/streak-stats) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saivaraprasad48&show_icons=true&locale=en&layout=compact" alt="Saivaraprasad48" /></p>
+<p><img align="center" src="https://https://github-readme-stats.vercel.app/api?username=Saivaraprasad48&show_icons=true&locale=en" alt="Saivaraprasad48" /></p> 
+
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Saivaraprasad48)](https://git.io/streak-stats) 
 
