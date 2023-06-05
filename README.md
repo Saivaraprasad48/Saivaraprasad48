@@ -9,5 +9,5 @@
 
 - 👨‍💻 Check my portofolio [here](https://dsp-portfolio.netlify.app/)
 <img slign="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Saivaraprasad48)](https://git.io/streak-stats) 
+                  [![GitHub Streak](https://streak-stats.demolab.com/?user=Saivaraprasad48)](https://git.io/streak-stats) 
 
