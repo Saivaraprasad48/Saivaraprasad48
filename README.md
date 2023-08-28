@@ -9,4 +9,3 @@
 - 📄 To know about my experiences [View CV](https://drive.google.com/file/d/1Zh3rIodZhRnHyEO_CWOw7Fgx12Hvo-Eo/view?usp=sharing)
 
 - 👨‍💻 Check my portfolio [here](https://dsp-portfolio.netlify.app/)
-<img slign="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=45px>
