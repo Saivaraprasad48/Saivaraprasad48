@@ -6,6 +6,6 @@
 
 - 📫 You can mail me here **sai44prasad88@gmail.com**
   
-- 📄 To know about my experiences [View CV](https://drive.google.com/file/d/1qFniCWG5jXxKG6LhqBXKUXDe5cojule4/view?usp=sharing)
+- 📄 To know about my experiences [View CV](https://drive.google.com/file/d/1PCo4tmytyKeoDSkQL_ddyZWk1HO9Z6Na/view?usp=sharing)
 
 - 👨‍💻 Check my portfolio [here](https://dsp-portfolio.netlify.app/)
