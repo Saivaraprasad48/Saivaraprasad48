@@ -2,7 +2,6 @@
 <h1 align="center"> Hello 👋 I'm SAI VARA PRASAD </h1>
 <h4 align="center"> 🌟 Let your <b> actions </b> speak louder than your words. 🌟 </h4>
 <img slign="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=45px>
-
 - 📫 You can mail me here **sai44prasad88@gmail.com**
 - 🌱 I’m currently learning `AI Engineering`
 - 📄 To know about my experiences [View CV](https://drive.google.com/file/d/1O6RkvHg73frUBwLj-fwyAAoz0JvDWeHY/view?usp=sharing)
