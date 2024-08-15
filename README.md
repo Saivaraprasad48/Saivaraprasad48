@@ -5,7 +5,7 @@
 
 - 📫 You can mail me here **sai44prasad88@gmail.com**
 - 🤖 I’m good at `software development` && currently learning `AI Engineering`
-- 📄 To know about my experiences [View CV](https://drive.google.com/file/d/1O532xqQh_2461U1Mk0BRrp7DJpgKVYzB/view)
+- 📄 To know about my experiences [View CV](https://drive.google.com/file/d/1evfu6mtdBQzSTRow1PHqWqqzPwJXtn3z/view)
 - 👨‍💻 Check my portfolio [here](https://main--sai48-portfolio.netlify.app/)
 ---
 [![](https://visitcount.itsvg.in/api?id=saivaraprasad48&icon=0&color=0)](https://visitcount.itsvg.in)
